@@ -22,3 +22,6 @@ The goal of this project is to analyze a dataset of road accidents across differ
 🔹Speed vs. casualty scatter analysis
 🔹Interactive slicers for filtering by state, time, and accident type
 
+## Dashboard
+-<a href="https://github.com/Aya-Osamaa/Accident-Road-Analysis-Dashboard/blob/main/Screenshot%202025-08-03%20195826.png">Accident Analysis</a>
+-<a href="https://github.com/Aya-Osamaa/Accident-Road-Analysis-Dashboard/blob/main/Screenshot%202025-08-03%20200317.png">Road Analysis</a>
